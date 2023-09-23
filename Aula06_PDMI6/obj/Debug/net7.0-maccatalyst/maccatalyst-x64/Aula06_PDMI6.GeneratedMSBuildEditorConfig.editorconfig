@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Aula06_PDMI6
+build_property.ProjectDir = C:\Users\fabri\source\repos\Aula06_PDMI6\Aula06_PDMI6\
+
+[C:/Users/fabri/source/repos/Aula06_PDMI6/Aula06_PDMI6/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Aula06_PDMI6.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/fabri/source/repos/Aula06_PDMI6/Aula06_PDMI6/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Aula06_PDMI6.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/fabri/source/repos/Aula06_PDMI6/Aula06_PDMI6/ColorExample.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Aula06_PDMI6.ColorExample.xaml
+build_metadata.AdditionalFiles.TargetPath = ColorExample.xaml
+build_metadata.AdditionalFiles.RelativePath = ColorExample.xaml
+
+[C:/Users/fabri/source/repos/Aula06_PDMI6/Aula06_PDMI6/DataHora.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Aula06_PDMI6.DataHora.xaml
+build_metadata.AdditionalFiles.TargetPath = DataHora.xaml
+build_metadata.AdditionalFiles.RelativePath = DataHora.xaml
+
+[C:/Users/fabri/source/repos/Aula06_PDMI6/Aula06_PDMI6/DataHoraRefresh.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Aula06_PDMI6.DataHoraRefresh.xaml
+build_metadata.AdditionalFiles.TargetPath = DataHoraRefresh.xaml
+build_metadata.AdditionalFiles.RelativePath = DataHoraRefresh.xaml
+
+[C:/Users/fabri/source/repos/Aula06_PDMI6/Aula06_PDMI6/KeypadPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Aula06_PDMI6.KeypadPage.xaml
+build_metadata.AdditionalFiles.TargetPath = KeypadPage.xaml
+build_metadata.AdditionalFiles.RelativePath = KeypadPage.xaml
+
+[C:/Users/fabri/source/repos/Aula06_PDMI6/Aula06_PDMI6/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Aula06_PDMI6.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/fabri/source/repos/Aula06_PDMI6/Aula06_PDMI6/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Aula06_PDMI6.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/fabri/source/repos/Aula06_PDMI6/Aula06_PDMI6/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Aula06_PDMI6.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
